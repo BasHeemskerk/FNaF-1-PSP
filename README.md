@@ -1,6 +1,7 @@
 # FNaF-1-PSP
+A recreation of the game Five Night's at Freddy 1 for the Playstation Portable (PSP).
 
-Recreation of FNaF 1 for psp (source code).
-You need the PSP homebrew SDK to compile this. Download here: https://sourceforge.net/projects/minpspw/
+## How Can I Compile This Repository?
+You can compile this repository by following the instructions provided in [COMPILE.md](docs/COMPILE.md)
 
-Buggy as hell, great if someone could fix the crashing.
+Please note that the current version may have some bugs and crashes. Any contributions to fix these issues would be greatly appreciated.
